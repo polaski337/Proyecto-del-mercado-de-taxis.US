@@ -5,6 +5,7 @@ Proyecto de analisis de datos desarrollado en Jupyter Notebook.
 ## Contenido
 
 - `proyecto sprint 8.ipynb`: notebook principal del proyecto.
+- `data/`: datasets utilizados en el analisis.
 - `requirements.txt`: librerias necesarias para ejecutar el notebook.
 
 ## Herramientas utilizadas
